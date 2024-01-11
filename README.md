@@ -1,4 +1,4 @@
-# Data Science Boot camp Bathch 9
+# Data Science Boot camp Batch 9
 
 Courses:
 - Intro to data science
